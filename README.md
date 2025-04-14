@@ -1,4 +1,4 @@
-# Проект: Обучение с учителем (Supervised Learning)
+# Проект: Обучение с учителем (Supervised-learning-project)
 
 # Цель проекта: оптимизировать управление персоналом, чтобы избежать финансовых потерь и оттока сотрудников.
 
@@ -70,3 +70,9 @@ data/
    - Улучшить адаптацию новичков (высокая текучесть в первые месяцы)
    - Пересмотреть систему компенсаций
    - Создать альтернативные карьерные пути для опытных сотрудников
+
+### Как запустить проект
+git clone https://github.com/tatyanamarega/Supervised-learning-project.git
+jupyter notebook supervised_learning_project_HR.ipynb
+
+[Репозиторий проекта](https://github.com/tatyanamarega/Supervised-learning-project)
