@@ -1,0 +1,26 @@
+# Игнорируем служебные файлы редакторов и ОС
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Данные и логи
+*.csv
+*.json
+*.log
+/data/
+
+# Временные файлы
+temp/
+*.tmp
+
+# Визуализации
+*.png
+*.jpg
+!README_images/  # Исключение для папки с изображениями для README
